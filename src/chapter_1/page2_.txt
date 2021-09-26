@@ -5,3 +5,6 @@ this is page 2 of chapter 1
 our second file
 
 now we have git enabled
+
+more text text text text
+more text text text text
